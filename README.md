@@ -12,8 +12,8 @@ The aim of the project is waste classification by using Deep Neural Networks. Th
 
 ## Project includes:
 
-* Waste classification model - **wasteclassification.h5**
-* Waste Classification interface - **wasteclassification.ipynb**
+* Waste classification model - **wasteclassification.ipynb**
+* Waste Classification interface - **wasteclassification.py**
  
 ## Technologies
 
